@@ -9,8 +9,8 @@ defmodule Myfirstproject.CLI.Main do
   end
 
   defp welcome_message do
-    Shell.info("=====Myfirstproject=====")
-    Shell.info("Welcome to your personal schedule")
+    Shell.info("=====Agenda Pessoal=====")
+    Shell.info("Welcome to your personal scheduler")
     Shell.info("========================")
   end
 
